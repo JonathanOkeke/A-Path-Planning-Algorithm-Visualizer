@@ -17,6 +17,4 @@ After running the program;
 1. Select the starting node from which the A* algorithm should begin the search.
 2. Select a goal/end node at which the A* algorithm will attempt to reach.
 3. Select barrier nodes that will represent obstacles that the algorithm must traverse to reach the goal node. (These will appear black in colour)
-4. Hit the "Enter" key and enjoy the visualizatin of the searching process.
-
-(I will be including a link to a video demo in the next couple of days.)
+4. Hit the space bar and enjoy the visualization of the searching process.
